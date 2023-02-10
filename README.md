@@ -1,0 +1,1 @@
+Hi, I'm Aleksey and here I'm learning design patterns for programming with python and so not only it
